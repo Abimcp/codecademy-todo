@@ -1,4 +1,4 @@
-# Codecademy: Fashion Blog
+# Codecademy: To-Do 
 
 Project from Codecademy to build a simple To-do web app using flexbox.
 
